@@ -1,1 +1,16 @@
-print('Hello World')
+#print('Phyton ile İlk Günüm!')
+#print("Fonksiyon şu şekilde tanımlanır: print('ekrana yazdırılacak yazı')")
+#print("Merhaba Dünya\nMerhaba Dünya\nMerhaba Dünya")
+#print("Merhaba"+" "+"Şahin")
+#print(input("Merhaba, Adın Nedir?"))
+#print("Merhaba" + input("Merhaba,Adın Nedir?") + "!")
+#print(len(input("Merhaba, Adın Nedir?")))
+#name = input("Merhaba Adın Nedir?")
+#print(name)
+#name = "Şahin"
+#print(name)
+#name = "Taşın"
+#print(name)
+#isim = input("Merhaba,Adın Nedir?")
+#uzunluk = len(isim)
+#print(uzunluk)
